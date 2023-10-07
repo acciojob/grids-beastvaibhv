@@ -14,21 +14,21 @@
             border: 2px dotted rgb(38, 38, 43);
         }
         /* Specific Column Styles */
-        .col-md-4 {
+        .r1c1 {
             background-color: teal;
         }
-        .col-md-8 {
+        .r1c2 {
             background-color: thistle;
         }
-        .tomato {
+        .r2c1 {
             background-color: tomato;
         }
-        .turqoise{
+        .r2c2{
             background-color: turquoise;
         }
-        .violet {
+        .r3c1 {
             background-color: violet;
         }
-        .green {
+        .r3c2 {
             background-color: yellowgreen;
         }
